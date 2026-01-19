@@ -18,7 +18,7 @@ A framework for knowledge base entity linking. Detatils [here](./kbel).
 - Machado, M., Rodrigues, J. M., Lima, G., & da Silva, V. T. (2024, November). **LLM Store: A KIF Plugin for Wikidata-Based Knowledge Base Completion via LLMs.** In *International Semantic Web Conference*.
 
 #### KIFQA ####
-- Soon
+- Machado, M., Campos, J. P. P., Lima, G., & da Silva, V. T. (2025, November). **KIF-QA: Using Off-the-shelf LLMs to Answer Simple Questions over Heterogeneous Knowledge Bases.** In Joint Proc. 5th Wikidata Workshop for the Scientific Wikidata Community co-located with the 24th International Semantic Web Conference (ISWC 2025), Nara, Japan.
 
 ## ISWC LM-KBC 2024 Challenge
 Our LLM Store solution to the [ISWC LM-KBC 2024 Challenge](https://lm-kbc.github.io/challenge2024/) can be [accessed here](https://github.com/marcelomachado/kif-llm/tree/lm-kbc-challenge).
